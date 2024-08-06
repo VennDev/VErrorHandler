@@ -9,6 +9,6 @@
 ```php
 VErrorHandler::init();
 VErrorHandler::register(function (string $errorMessage) {
-    throw new ErrorException($errorMessage); // you can throw new ErrorException or not!
+    throw new ErrorException($errorMessage); // you can throw new ErrorException or not if you did not want stop server or your application!
 });
 ```
