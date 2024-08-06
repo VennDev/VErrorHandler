@@ -1,6 +1,10 @@
 # VErroHandler
 - Handling exceptions or errors coming from the PocketMine server or regular php applications!
 
+# Features
+- Handle errors and exceptions in your server or php application easily!
+- Avoid unexpected exceptions or errors that close the server or application!
+
 # Example
 ```php
 VErrorHandler::init();
