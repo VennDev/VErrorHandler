@@ -1,0 +1,7 @@
+---
+authors: VennDev
+name: VErrorHandler
+antigen: venndev\verrorhandler
+version: 1.0.0
+api: 5.0.0
+...
